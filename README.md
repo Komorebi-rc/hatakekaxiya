@@ -12,13 +12,13 @@ But I understand that I only do development that satisfies the client's needs.</
 
 <h3>🏆 Github Profile Trophy</h3>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hatakekaxiya&column=-1&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Organizations,MultiLanguage" alt="Followers, Commits, Stars, Repositories, PullRequest">
+<img src="https://github-profile-trophy.vercel.app/?username=Komorebi-rc&column=-1&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Organizations,MultiLanguage" alt="Followers, Commits, Stars, Repositories, PullRequest">
 </p>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hatakekaxiya&langs_count=20&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Komorebi-rc&langs_count=20&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
 </p>
 <!-- <p align="center">
-  <img alt="hatakekaxiya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hatakekaxiya&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  <img alt="Komorebi-rc's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Komorebi-rc&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p> -->
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=7000&center=true&vCenter=true&width=800&height=60&lines=Passionate+business+partner;Talented+react%2Fvue+frontend+engineer;Experienced+nodejs+backend+engineer;Honest+smart+contract+developer;" />
@@ -69,16 +69,16 @@ But I understand that I only do development that satisfies the client's needs.</
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 <code><img height="45" src="https://cdn.worldvectorlogo.com/logos/shopify.svg"></code>
 
-![3D Profile](https://github.com/hatakekaxiya/hatakekaxiya/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
+![3D Profile](https://github.com/Komorebi-rc/Komorebi-rc/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
 
 <h1 align="center">🤲</h1>
 <p align="center">
-<a href="mailto:business0507i@gmail.com">Email to hatakekaxiya</a>
+<a href="mailto:business0507i@gmail.com">Email to Komorebi-rc</a>
 </p>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 
-**Credits**: [hatakekaxiya](https://github.com/hatakekaxiya)
+**Credits**: [Komorebi-rc](https://github.com/Komorebi-rc)
 
 
 Here are some ideas to get you started:
