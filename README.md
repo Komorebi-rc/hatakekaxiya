@@ -71,19 +71,6 @@ But I understand that I only do development that satisfies the client's needs.</
 
 ![3D Profile](https://github.com/hatakekaxiya/hatakekaxiya/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
 
-<p align="center">
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
-  <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
-</p>
-
-<p align="center">
-
-  <img width="75%" src="metrics.classic.svg"/>
-  <img width="75%" src="metrics.plugin.achievements.compact.svg"/>
-  <img src="metrics.plugin.isocalendar.svg" width="75%"/>
-  <img src="metrics.plugin.leetcode.svg" width="75%"/>
-</p>
-
 <h1 align="center">🤲</h1>
 <p align="center">
 <a href="mailto:business0507i@gmail.com">Email to hatakekaxiya</a>
